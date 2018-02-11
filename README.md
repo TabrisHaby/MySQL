@@ -11,6 +11,8 @@
 
 	# GUI : HeidiSQL 9.5.0.5196
 
+	# OS : Windows 10 v1702
+
 # Data Details
 
 	# WORLD
