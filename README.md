@@ -1,7 +1,7 @@
 # MySQL
 
 
-# This is a repo for MySQL Exercise from SQLZoo with questions and answers
+	# This is a repo for MySQL Exercise from SQLZoo with questions and answers
 
 # Working Environment
 
