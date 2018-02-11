@@ -53,6 +53,7 @@
 		1002	RUS	Roman Pavlyuchenko	82
 		...
 
+
 	# Eteam
 
 		id	teamname	coach
@@ -62,6 +63,28 @@
 		GRE	Greece		Fernando Santos
 		...
 
+
+	# Movie
+
+		id	title			yr	director	budget		gross
+		10003	"Crocodile" Dundee II	1988	38		15800000	239606210
+		10004	'Til There Was You	1997	49		10000000	
+		...
+
+
+	# Actor
+
+		id	name
+		20	Paul Hogan
+		50	Jeanne Tripplehorn
+		...
+
+
+	# Casting
+
+		movieid	actorid	ord
+		10003	20	4
+		10004	50	1
 
 
 
