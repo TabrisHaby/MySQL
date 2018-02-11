@@ -35,7 +35,7 @@
 		...
 
 	# Game
-		
+
 		id	mdate		stadium				team1	team2
 		1001	8 June 2012	National Stadium, Warsaw	POL	GRE
 		1002	8 June 2012	Stadion Miejski (Wroclaw)	RUS	CZE
@@ -68,7 +68,7 @@
 
 		id	title			yr	director	budget		gross
 		10003	"Crocodile" Dundee II	1988	38		15800000	239606210
-		10004	'Til There Was You	1997	49		10000000	
+		10004	'Til There Was You	1997	49		10000000
 		...
 
 
@@ -87,11 +87,22 @@
 		10004	50	1
 
 
+	# Teacher
+
+		id	dept	name				phone	mobile
+		101	1			Shrivell		2753	07986 555 1234
+		102	1			Throd				2754	07122 555 1920
+		103	1			Splint			2293
+		104				Spiregrain	3287
+		105	2			Cutflower		3212	07996 555 6574
+		106				Deadyawn		3345
+		...
 
 
+	# dept
 
-
-
-
-
-
+		id	name
+		1	Computing
+		2	Design
+		3	Engineering
+		...
