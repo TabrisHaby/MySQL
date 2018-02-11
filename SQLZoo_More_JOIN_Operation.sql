@@ -73,7 +73,7 @@ select movie.title
 from (movie inner join casting
 on movie.id = casting.movieid) inner join actor
 on casting.actorid = actor.id
-where actor.name = 'Harrison For
+where actor.name = 'Harrison Ford'
 
 
 #9.
