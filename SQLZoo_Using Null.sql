@@ -1,8 +1,10 @@
-# SQLZoo
-
-# Using Null
-
-# http://sqlzoo.net/wiki/Using_Null
+-- # SQLZoo
+--
+-- # Using Null
+--
+-- # http://sqlzoo.net/wiki/Using_Null
+--
+-- # TEXT EDITOR : ATOM v 1.23.3
 
 -- 1.
 -- List the teachers who have NULL for their department.
