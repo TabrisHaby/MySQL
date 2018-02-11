@@ -106,3 +106,20 @@
 		2	Design
 		3	Engineering
 		...
+
+
+	# Edinburgh Buses.
+
+		# stops
+
+		Field	Type			Notes
+		id		INTEGER		Arbitrary value
+		name	CHAR(30)	The name of an area served by at least one bus
+
+		# route
+
+		Field		Type					Notes
+		num			CHAR(5)				The number of the bus - as it appears on the front of the vehicle. Oddly these numbers often include letters
+		company	CHAR(3)				Several bus companies operate in Edinburgh. The main one is Lothian Region Transport - LRT
+		pos			INTEGER				This indicates the order of the stop within the route. Some routes may revisit a stop. Most buses go in both directions.
+		stop		INTEGER				This references the stops table
