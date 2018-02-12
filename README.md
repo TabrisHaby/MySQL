@@ -13,6 +13,8 @@
 
 	# OS : Windows 10 v1702
 
+	# text editor : Atom Version 1.23.3
+
 # Data Details
 
 	# WORLD
