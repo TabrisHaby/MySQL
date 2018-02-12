@@ -90,12 +90,12 @@
 	# Teacher
 
 		id	dept	name				phone	mobile
-		101	1			Shrivell		2753	07986 555 1234
-		102	1			Throd				2754	07122 555 1920
-		103	1			Splint			2293
-		104				Spiregrain	3287
-		105	2			Cutflower		3212	07996 555 6574
-		106				Deadyawn		3345
+		101	1		Shrivell		2753	07986 555 1234
+		102	1		Throd				2754	07122 555 1920
+		103	1		Splint			2293
+		104			Spiregrain	3287
+		105	2		Cutflower		3212	07996 555 6574
+		106			Deadyawn		3345
 		...
 
 
@@ -113,7 +113,7 @@
 		# stops
 
 		Field	Type			Notes
-		id INTEGER		Arbitrary value
+		id 	INTEGER	Arbitrary value
 		name	CHAR(30)	The name of an area served by at least one bus
 
 		# route
