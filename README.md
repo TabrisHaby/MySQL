@@ -113,7 +113,7 @@
 		# stops
 
 		Field	Type			Notes
-		id 	INTEGER	Arbitrary value
+		id 	INTEGER		Arbitrary value
 		name	CHAR(30)	The name of an area served by at least one bus
 
 		# route
